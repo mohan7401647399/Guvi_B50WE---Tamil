@@ -1,0 +1,10 @@
+.resizable-box {
+    display: inline-block;
+    padding: 20px;
+    border: 2px solid black;
+    resize: vertical; /* Enables vertical resizing */
+    overflow: auto; /* Adds scrollbars when content overflows */
+    max-width: 300px; /* Set a maximum width to control resizing */
+    min-height: 50px; /* Set a minimum height to avoid collapsing */
+  }
+  

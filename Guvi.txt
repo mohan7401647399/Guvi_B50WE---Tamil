@@ -1,0 +1,153 @@
+DAY 1 - GUVI - NOTES
+
+
+https://www.guvi.in/ide
+
+https://www.guvi.com/code-kata
+
+Feedback Form: https://bit.ly/pbcsessionfeedback
+
+Portal Demo Link: https://bit.ly/zenportaldemo
+///////
+Terms & Condition: https://www.zenclass.in/terms-and-conditions2
+
+Admission Form: https://creatorapp.zohopublic.in/teamzen_guvi/zems/form-perma/GUVI_ZEN_Class_Programme_Admission_Form/ZdGYF3ZW6ZNxO6CuX3HV1uV9ECtUhtO0b0eW5Vp22R5XtQyh3PaNHOQxrrOD9NnBumuYdebZK9n8T0tbGZ8RyYd63Q8Kz1dhZ2DC
+
+>>>>>>>>>>>>>>>>>>Template>>>>>>>>>>>>>>>>
+
+// Getting input via STDIN
+const readline = require("readline");
+
+const inp = readline.createInterface({
+  input: process.stdin
+});
+
+
+inp.on("line", (data) => {
+    
+    // Input data process here
+    
+});
+
+inp.on("close", () => {
+
+    // Output data process here
+
+});
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>/
+
+
+>>>>>>>>>>>>>>>>>>Variable>>>>>>>>>>>>>>>>>>
+
+var => Can Reassign || Can Redeclare
+let => Can Reassign || Can't Redeclare
+const => Can't Reassign || Can't Redeclare
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+>>>>>>>>>>>>>> Example >>>>>>>>>>>>>>>>>>>>>
+
+1 + 1 => 2 // Number
+    
+    "a" + "b" => "ab" // String
+    
+    1 + "a" => "1a" // String
+    
+    "1" + "1" => "11" // String
+    
+    "1" + 1 => "11" // String
+    
+    1 - 1 => 0 // Number
+    
+    "a" - "b" => NaN // Number
+    
+    1 - "a" => NaN // Number
+    
+    "1" - "1" => 0 // Number
+    
+    "1" - 1 => 0 // Number
+    
+    "1a" - "a" => NaN // Number
+    
+    "2a" - "1a" => NaN // Number
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+>>>>>>>>>>>>>>>>>>Exercise 1>>>>>>>>>>>>>>>>>>>
+
+1 + "1" + 1 - 1 + 1 - "1" + 11
+
+"11" + 1 - 1 + 1 - "1" + 11
+
+"111" - 1 + 1 - "1" + 11
+
+110 + 1 - "1" + 11
+
+111 - "1" + 11
+
+110 + 11
+
+121
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+>>>>>>>>>>>>>>>>>>>>>>>Exercise 2>>>>>>>>>>>>>>>>>>
+
+console.log(1 + "1" - 1 + "1" + +"1" - 1);
+
+1 + "1" - 1 + "1" + +"1" - 1
+
+"11" - 1 + "1" + +"1" - 1
+
+10 + "1" + +"1" - 1
+
+"101" + +"1" - 1
+
+"101" + 1 - 1
+
+"1011" - 1
+
+1010
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+Array Methods in JavaScript => https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array
+
+String Methods in JavaScript => https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String
+
+Splice Method => https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/splice
+
+
+
+Main bootcamp - DAY 1
+
+		https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/join
+		
+GIT COMMENTS -->
+https://gist.github.com/MohanCloud-stack/32af8ccf466877df654fde3926681827
+		
+PastPin sites:
+
+	https://www.pastiebin.com/64cf5e9789806
+	https://www.pastiebin.com/64ce0f6c2af02 - 05 aug
+	https://www.pastiebin.com/64c4d2db8b9f4 - 06 aug
+	https://www.pastiebin.com/64d74b5697979 - 12 aug
+	https://www.pastiebin.com/64d89f39f0b71 - 13 aug
+	https://www.pastiebin.com/64e082eae06bd - 19 aug
+	https://www.pastiebin.com/64e1db7d284b4 - 20 aug
+	https://www.pastiebin.com/64e9c64c62e30 - 26 aug
+	https://www.pastiebin.com/65053c63150b2 - 16 sep
+	https://www.pastiebin.com/650e70cfbb58f	 - 23 Sep mrng
+	https://www.pastiebin.com/650eb4d22bf56	  -  23 sep aft
+	https://www.pastiebin.com/6517f007d24eb - 30 Sep
+	https://www.pastiebin.com/6519384169518 - 01 Oct
+	https://www.pastiebin.com/6521257121afb - 10 Oct
+	position properties - https://gist.github.com/MohanCloud-stack/157b982fb390fb147a6da01b45949d78   26 aug
+	https://gist.github.com/MohanCloud-stack/835d57544fe14285cce09777f91bf340  -  missing templates  -  27 aug
+	https://gist.githubusercontent.com/MohanCloud-stack/835d57544fe14285cce09777f91bf340/raw/2726367825d45e4f468c872abc6dbe1611ee0ca3/Templates.js   -   missing templates  -  27 aug
+	https://github.com/MohanCloud-stack/pancard01/blob/main/Pan%20Form.PNG  --  assessment  -  27 aug
+	
+	
+	GUVI USERS:
+	osama-1329
